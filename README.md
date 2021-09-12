@@ -1,7 +1,8 @@
 # gw2mqtt-pvo
 GoodWe inverter readout over UDP to MQTT and PVOutput.org
 
-See the code for all the config options
+Install missing imports using pip. See the code for all the config options.
+
 
 ## Running 
 You can run this using systemd by adding the service file below in /etc/systemd/system/gw2mqtt-pvo.service
